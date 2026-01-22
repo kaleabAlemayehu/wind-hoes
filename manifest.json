@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Wind-hoes Replacer",
+    "version": "1.0.0",
+    "description": "Replaces all instances of 'windows' with 'wind-hoes' on web pages",
+    "permissions": [],
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end",
+            "all_frames": true
+        }
+    ]
+}
