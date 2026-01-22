@@ -1,6 +1,6 @@
 # Wind-hoes Browser Extension
 
-A mocking browser extension that replaces every instance of the word "windows" with "wind-hoes" on any web page you visit. (inspired by microslop), personaly i don't anything with microsoft, but i hate windows mostly because it was giving me a hell when i try to use it on my potato laptop.
+A mocking browser extension that replaces every instance of the word "windows" with "wind-hoes" on any web page you visit. (inspired by microslop), Personally, I don't hate Microsoft, but I hate Windows mostly because it gave me a hard time when I tried to use it on my old laptop.
 
 ## Features
 - **Case-Sensitive Replacement**: Preserves the original case ("Windows" -> "Wind-hoes", "WINDOWS" -> "WIND-HOES").
